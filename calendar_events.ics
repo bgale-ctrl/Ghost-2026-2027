@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventExtractor//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exported Calendar
+BEGIN:VEVENT
+UID:1792055949494vlbz4xuy@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261019T213000
+DTEND;TZID=Europe/Rome:20261019T230000
+SUMMARY:Ghostbaskers vs Fusignano Loschers
+DESCRIPTION:Andata - Giornata 1 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494quntfhk4@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261028T213000
+DTEND;TZID=Europe/Rome:20261028T230000
+SUMMARY:Progetto Forlimpopoli vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 2 - Campionato Open M Gold CSI Forlì
+LOCATION:Palagiorgini - Via Del Tulipano 11\, 47034 Forlimpopoli FC
+END:VEVENT
+BEGIN:VEVENT
+UID:17920559494941f22tofm@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261102T213000
+DTEND;TZID=Europe/Rome:20261102T230000
+SUMMARY:Ghostbaskers vs Buratelli Cervia
+DESCRIPTION:Andata - Giornata 3 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:179205594949433x3gc4w@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261115T170000
+DTEND;TZID=Europe/Rome:20261115T183000
+SUMMARY:Bakers Basket vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 5 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Bendandi - Via Ravegnana 73\, 48018 Faenza RA
+END:VEVENT
+BEGIN:VEVENT
+UID:17920559494940861kogk@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261123T213000
+DTEND;TZID=Europe/Rome:20261123T230000
+SUMMARY:Ghostbaskers vs Ghetto Ponente A
+DESCRIPTION:Andata - Giornata 6 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494pfnd85h6@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261202T213000
+DTEND;TZID=Europe/Rome:20261202T230000
+SUMMARY:Fit Ziria Cervia vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 7 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Gervasi - Via Caduti per la Libertà 16\, 48015 Cervia RA
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494ceh5uo2c@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261207T213000
+DTEND;TZID=Europe/Rome:20261207T230000
+SUMMARY:Ghostbaskers vs Duo Ligones
+DESCRIPTION:Andata - Giornata 8 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494ufanf2el@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20261217T211500
+DTEND;TZID=Europe/Rome:20261217T224500
+SUMMARY:Shohoku Forli' vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 9 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Orceoli - Via Giuseppe Orceoli 6\, 47122 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494vmvok2dh@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270104T213000
+DTEND;TZID=Europe/Rome:20270104T230000
+SUMMARY:Ghostbaskers vs Bee Hoopers
+DESCRIPTION:Andata - Giornata 10 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:17920559494942dhpda2p@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270113T210000
+DTEND;TZID=Europe/Rome:20270113T223000
+SUMMARY:Lusa Basket Massa vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 11 - Campionato Open M Gold CSI Forlì
+LOCATION:Palasport Massa Lombarda - Via Fornace di Sopra 1/C\, 48024 Massa Lombarda RA
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494b560gw1h@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270118T213000
+DTEND;TZID=Europe/Rome:20270118T230000
+SUMMARY:Ghostbaskers vs Red Thunders Bagnacavallo
+DESCRIPTION:Andata - Giornata 12 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494850yneno@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270125T210000
+DTEND;TZID=Europe/Rome:20270125T223000
+SUMMARY:Generali Forli' vs Ghostbaskers
+DESCRIPTION:Andata - Giornata 13 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Giulianini - Via XIII Novembre 1944 129\, 47122 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494k1u2es5j@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270205T210000
+DTEND;TZID=Europe/Rome:20270205T223000
+SUMMARY:Fusignano Loschers vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 1 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Fusignano - Largo Missiroli 5\, 48034 Fusignano RA
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494phwqbuv5@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270208T213000
+DTEND;TZID=Europe/Rome:20270208T230000
+SUMMARY:Ghostbaskers vs Progetto Forlimpopoli
+DESCRIPTION:Ritorno - Giornata 2 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494iswm4i5v@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270218T213000
+DTEND;TZID=Europe/Rome:20270218T230000
+SUMMARY:Buratelli Cervia vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 3 - Campionato Open M Gold CSI Forlì
+LOCATION:Palasport Cervia - Via Pinarella 66\, 48015 Cervia RA
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494v9bpi6pj@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270301T213000
+DTEND;TZID=Europe/Rome:20270301T230000
+SUMMARY:Ghostbaskers vs Bakers Basket
+DESCRIPTION:Ritorno - Giornata 5 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:17920559494947x6qjxvy@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270309T210000
+DTEND;TZID=Europe/Rome:20270309T223000
+SUMMARY:Ghetto Ponente A vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 6 - Campionato Open M Gold CSI Forlì
+LOCATION:Palazzetto Cesenatico - Via Magellano 23\, 47521 Cesenatico FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494xe433r83@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270315T213000
+DTEND;TZID=Europe/Rome:20270315T230000
+SUMMARY:Ghostbaskers vs Fit Ziria Cervia
+DESCRIPTION:Ritorno - Giornata 7 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494e9jv3hax@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270326T214000
+DTEND;TZID=Europe/Rome:20270326T231000
+SUMMARY:Duo Ligones vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 8 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Penazzi - Via Antonio Vivaldi 72\, 40026 Imola BO
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494o8qv91ly@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270405T213000
+DTEND;TZID=Europe/Rome:20270405T230000
+SUMMARY:Ghostbaskers vs Shohoku Forli'
+DESCRIPTION:Ritorno - Giornata 9 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494es7mqcxq@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270412T213000
+DTEND;TZID=Europe/Rome:20270412T230000
+SUMMARY:Bee Hoopers vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 10 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494vlbvg7gh@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270419T213000
+DTEND;TZID=Europe/Rome:20270419T230000
+SUMMARY:Ghostbaskers vs Lusa Basket Massa
+DESCRIPTION:Ritorno - Giornata 11 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494awctx9tq@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270425T180000
+DTEND;TZID=Europe/Rome:20270425T193000
+SUMMARY:Red Thunders Bagnacavallo vs Ghostbaskers
+DESCRIPTION:Ritorno - Giornata 12 - Campionato Open M Gold CSI Forlì
+LOCATION:Palasport Bagnacavallo - Largo De Gasperi 38\, 48012 Bagnacavallo RA
+END:VEVENT
+BEGIN:VEVENT
+UID:1792055949494aic4iu2e@event-extractor.com
+DTSTAMP:20261015T091909Z
+DTSTART;TZID=Europe/Rome:20270503T213000
+DTEND;TZID=Europe/Rome:20270503T230000
+SUMMARY:Ghostbaskers vs Generali Forli'
+DESCRIPTION:Ritorno - Giornata 13 - Campionato Open M Gold CSI Forlì
+LOCATION:Palestra Viroli - Via Baldraccani\, 47121 Forlì FC
+END:VEVENT
+END:VCALENDAR
